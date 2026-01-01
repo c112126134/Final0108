@@ -1,0 +1,8 @@
+yfinance
+pandas
+numpy
+matplotlib
+fastapi
+uvicorn
+jinja2
+httpx
