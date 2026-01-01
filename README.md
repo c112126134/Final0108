@@ -10,7 +10,7 @@ C112126134 吳宗叡
 - 使用 FastAPI 建立Web伺服器
 - 使用 Jinja2 建立HTML頁面
 - 使用 Github Copilot 執行程式＆網頁設計
-- 啟動網頁前需執行：`python.exe final0108.py --serve`
+- 啟動網頁前需執行：`python.exe Final0108\\final0108.py --serve`
 - 網頁位址：http://127.0.0.1:8000/
 
 ---
