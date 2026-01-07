@@ -38,6 +38,7 @@
 - 長期 SMA: sma_long = 50
 - RSI 週期: rsi_period = 14
 - RSI 進場門檻: rsi_buy = 55 （或 RSI 上升）
+- RSI 出場門檻: rsi_buy = 45 （或 RSI 下降）
 - 成交量均線: vol_ma = 20
 - 成交量 multiplier: vol_mult = 1.2
 - 初始資金: initial_capital = 100000
