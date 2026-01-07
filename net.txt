@@ -1,3 +1,1 @@
-http://127.0.0.1:8000/
 
-啟動網站：python.exe final0108.py --serve
