@@ -46,7 +46,7 @@
 ---
 
 ## 回測設計
-1. 取資料來源：yfinance（使用 Adjusted Close 與 Volume）
+1. 取資料來源：yfinance
 2. 計算指標（SMA, RSI, volume MA）
 3. 以日收盤價做為交易價格（簡化假設：以當日收盤價成交）
 4. 追蹤每日淨值（equity），並記錄交易次數、每筆交易損益
